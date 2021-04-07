@@ -7,6 +7,7 @@ public class EmployeeDetails {
 	float empSal;
 
 	public EmployeeDetails(){}
+	
 	public EmployeeDetails(int empId, String empName, float empSal)
 	{
 		this.empId = empId;
